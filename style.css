@@ -1,0 +1,9 @@
+p {
+    text-align: justify;
+    color: blueviolet;
+}
+h2 {
+    text-align: center;
+    text-decoration: underline dotted;
+    text-size-adjust: 30px;
+}
